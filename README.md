@@ -1,9 +1,16 @@
 # Skinet – E‑Commerce Musterprojekt
 
-**📌 Beschreibung**
-Dies ist das aktualisierte Full-Stack E‑Commerce Beispiel auf Basis von .NET 7, Angular 15 und Bootstrap 5. Das Projekt stammt aus dem Udemy-Kurs von Neil Cummings.
-🔗 Originalquelle: https://github.com/TryCatchLearn/Skinet3.1
----
+## 📌 Beschreibung
+
+Dies ist das aktualisierte **Full-Stack E-Commerce Beispiel** auf Basis von:
+
+- **.NET 7**
+- **Angular 15**
+- **Bootstrap 5**
+
+Das Projekt stammt aus dem Udemy-Kurs von **Neil Cummings**.
+
+🔗 **Originalquelle:** [TryCatchLearn/Skinet3.1](https://github.com/TryCatchLearn/Skinet3.1)
 
 ## 🚀 Schnellstart
 
